@@ -48,7 +48,7 @@ Completed two tasks:
 
 3. Advanced Level
 
-Completed:
+Completed one task:
 
 - Iris Data Analysis using Python.
 
@@ -68,11 +68,11 @@ Learning Outcomes
 - Improved Python programming fundamentals.
 - Practiced problem-solving using Python.
 - Gained experience with web scraping.
-- Developed a simple game.
+- Developed a simple Hangman game.
 - Learned data analysis and visualization.
 
-Internship
+Internship Details
 
-Organization: ShadowFox
-Domain: Python Development
-Duration: November 2026
+- Organization: ShadowFox
+- Domain: Python Development
+- Duration: November 2026
