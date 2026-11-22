@@ -4,11 +4,13 @@ This repository contains the tasks completed as part of my Python Development In
 
 The internship helped me improve my Python programming skills through beginner, intermediate, and advanced-level tasks.
 
-Repository Structure
+---
+
+📁 Repository Structure
 
 The repository is organized into three levels:
 
-Beginner
+📌 Beginner
 
 - Task 1: Variables
 - Task 2: Numbers
@@ -17,20 +19,20 @@ Beginner
 - Task 5: For Loop
 - README.md
 
-Intermediate
+📌 Intermediate
 
 - Task 1: Web Scraper
 - Task 2: Hangman Game
 - README.md
 
-Advanced
+📌 Advanced
 
 - Task: Iris Data Analysis
 - README.md
 
-The main README file provides an overview of all the internship tasks.
+---
 
-Internship Tasks
+💻 Internship Tasks
 
 1. Beginner Level
 
@@ -55,7 +57,9 @@ Completed one task:
 
 - Iris Data Analysis: Explored the Iris flower dataset and performed statistical analysis using Python.
 
-Technologies Used
+---
+
+🛠️ Technologies Used
 
 - Python
 - Google Colab
@@ -66,7 +70,9 @@ Technologies Used
 - Seaborn
 - Scikit-learn
 
-Learning Outcomes
+---
+
+🎯 Learning Outcomes
 
 - Improved Python programming fundamentals.
 - Practiced problem-solving using Python.
@@ -74,8 +80,11 @@ Learning Outcomes
 - Developed a simple Hangman game.
 - Learned data analysis and visualization.
 
-Internship Details
+---
+
+📋 Internship Details
 
 - Organization: ShadowFox
 - Domain: Python Development
 - Duration: November 2026
+
