@@ -6,26 +6,29 @@ The internship helped me improve my Python programming skills through beginner, 
 
 Repository Structure
 
-ShadowFox-Python-Development/
-│
-├── Beginner/
-│   ├── Beginner_Task_1_Variables.ipynb
-│   ├── Beginner_Task_2_Numbers.ipynb
-│   ├── Beginner_Task_3_Lists.ipynb
-│   ├── Beginner_Task_4_If_Condition.ipynb
-│   ├── Beginner_Task_5_For_Loop.ipynb
-│   └── README.md
-│
-├── Intermediate/
-│   ├── Web Scraper
-│   ├── Hangman Game
-│   └── README.md
-│
-├── Advanced/
-│   ├── Iris Data Analysis
-│   └── README.md
-│
-└── README.md
+The repository is organized into three levels:
+
+Beginner
+
+- Task 1: Variables
+- Task 2: Numbers
+- Task 3: Lists
+- Task 4: If Condition
+- Task 5: For Loop
+- README.md
+
+Intermediate
+
+- Task 1: Web Scraper
+- Task 2: Hangman Game
+- README.md
+
+Advanced
+
+- Task: Iris Data Analysis
+- README.md
+
+The main README file provides an overview of all the internship tasks.
 
 Internship Tasks
 
@@ -33,24 +36,24 @@ Internship Tasks
 
 Completed five tasks covering:
 
-- Variables
-- Numbers
-- Lists
-- If Condition
-- For Loop
+- Variables and data types
+- Number operations
+- Lists and list operations
+- Conditional statements
+- For loops and range()
 
 2. Intermediate Level
 
 Completed two tasks:
 
-- Web Scraper
-- Hangman Game
+- Web Scraper: Practiced extracting information from web pages using Python.
+- Hangman Game: Developed a simple word-guessing game using loops, conditions, and string operations.
 
 3. Advanced Level
 
 Completed one task:
 
-- Iris Data Analysis using Python.
+- Iris Data Analysis: Explored the Iris flower dataset and performed statistical analysis using Python.
 
 Technologies Used
 
