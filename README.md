@@ -1,4 +1,4 @@
-#ShadowFox Python Development Internship
+# ShadowFox Python Development Internship
 
 This repository contains the tasks completed as part of my Python Development Internship at ShadowFox.
 
