@@ -25,11 +25,6 @@ The repository is organized into three levels:
 - Task 2: Hangman Game
 - README.md
 
-📌 Advanced
-
-- Task: Iris Data Analysis
-- README.md
-
 ---
 
 💻 Internship Tasks
@@ -51,12 +46,6 @@ Completed two tasks:
 - Web Scraper: Practiced extracting information from web pages using Python.
 - Hangman Game: Developed a simple word-guessing game using loops, conditions, and string operations.
 
-3. Advanced Level
-
-Completed one task:
-
-- Iris Data Analysis: Explored the Iris flower dataset and performed statistical analysis using Python.
-
 ---
 
 🛠️ Technologies Used
@@ -64,12 +53,7 @@ Completed one task:
 - Python
 - Google Colab
 - Jupyter Notebook
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-
+- GitHub 
 ---
 
 🎯 Learning Outcomes
@@ -78,7 +62,6 @@ Completed one task:
 - Practiced problem-solving using Python.
 - Gained experience with web scraping.
 - Developed a simple Hangman game.
-- Learned data analysis and visualization.
 
 ---
 
