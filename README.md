@@ -71,3 +71,6 @@ Completed two tasks:
 - Domain: Python Development
 - Duration: November 2026
 
+ 📖 Conclusion
+This internship helped me improve my Python knowledge and gain practical experience by completing beginner and intermediate-level tasks.
+Thank you to ShadowFox for providing this learning opportunity!
